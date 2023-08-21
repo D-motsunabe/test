@@ -3,7 +3,7 @@ import winsound
 import pyttsx3
 import threading
 
-##音が鳴る
+##音が鳴る　はい
 def beep(freq, duration):
     winsound.Beep(freq, duration)
 
