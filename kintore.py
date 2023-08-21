@@ -59,7 +59,7 @@ def main():
         ## upだよ
         print("Starting 'u' interval...")
         countdown(u)
-        beep(u_beep_freq, 1000)  # 短いビープ音を再生
+        beep(u_beep_freq, 1000)  # 短いビープ音を再生！
         ## downだよ
         print("Starting 'd' interval...")
         countdown(d)
